@@ -1,0 +1,33 @@
+.jumbotron{
+    padding: 198px;
+}
+section{
+    padding:60px 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    color: #4C4C4C;
+    word-spacing: 5px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom:30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.ion-minus{
+    padding:0px 10px;
+}
+
+#blog{
+	background-color:#f6f6f6;
+}
+
+#blog .blog.column a{
+	color:#5db4c0;
+	text-decoration:none;
+}
+
+#blog img:hover {
+	opacity:0.8; 
+}
